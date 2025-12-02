@@ -16,7 +16,7 @@ def divide(a, b):
         return "Error: Division by zero"
 
 # Streamlit app
-st.title("Simple Calculator")
+st.title("Simple Calculator - Made by AI")
 
 operation = st.selectbox("Select operation:", ["Add", "Subtract", "Multiply", "Divide"])
 
